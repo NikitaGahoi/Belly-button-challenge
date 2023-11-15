@@ -1,5 +1,3 @@
-# Belly-button-challenge
-
 # Belly Button Biodiversity Dashboard
 
 ## Overview
