@@ -59,7 +59,7 @@ This project involves building an interactive dashboard to explore the Belly But
 - Update all plots when a new sample is selected from the dropdown menu.
 
 #### Step 6: Deployment
-- Deploy the app to a free static page hosting service, such as GitHub Pages.
+- Deploy the app to a free static page hosting service, such as GitHub Pages. The link for the website is [https://nikitagahoi.github.io/Belly-button-challenge/](https://nikitagahoi.github.io/Belly-button-challenge/)
 
 ### 4. File Organization and Structure
 - **Parent Directory:** Contains three folders and `index.html` file.
